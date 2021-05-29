@@ -1,0 +1,14 @@
+{
+  "name": "tfmsniffer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tfmsniffer.js",
+  "scripts": {
+    "test": "node ./example/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cap": "^0.2.1"
+  }
+}
